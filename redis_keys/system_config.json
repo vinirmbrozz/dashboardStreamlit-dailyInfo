@@ -1,0 +1,12 @@
+{
+    "sistema": "dashboardDailyInfo",
+    "nome_cliente": "*",
+    "amqps": "amqps://rnraluwi:v6pRbVu6psBABqn7pg81a2nnuChc833d@tall-cyan-dog.rmq4.cloudamqp.com/rnraluwi",
+    "origem": "MaquinaVini",
+
+    "host": "66.232.106.250",
+    "database": "softgo",
+    "user": "softgo",
+    "password": "L0idenice",
+    "port": 54333
+}

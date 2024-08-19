@@ -1,0 +1,12 @@
+{
+    "uuid_original": "cb3505ab-a161-499b-ad83-ed6e3abcf2b8",
+    "sistemas_disponiveis": [
+        {
+            "id": 3,
+            "nome": 1,
+            "url": "dailyInfo"
+        }
+    ],
+    "sistemas_logados": [],
+    "security": "70ce354b3241d5125fab2137d043114c2c296ba170b34e6cc48f0f58300b9b8d"
+}
